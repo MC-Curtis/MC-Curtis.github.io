@@ -1,4 +1,1 @@
-# NewTesterRepo2
-
-
-This is right file
+# NewTesterRepo2 This is right file
